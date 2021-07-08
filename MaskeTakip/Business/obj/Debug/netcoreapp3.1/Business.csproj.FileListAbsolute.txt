@@ -1,0 +1,12 @@
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Alper\Desktop\StajProje2\MaskeTakip\Business\obj\Debug\netcoreapp3.1\Business.pdb
